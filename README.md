@@ -40,6 +40,30 @@ features for user authentication, account management, and hotel booking settings
 
 - **Delete Confirmation**: Provides a modal to confirm deletion of items.
 
+## Libraries and Technologies Used
+
+- **JavaScript**
+- **React**: For building the user interface.
+- **i18next**: For internationalization.
+- **i18next-http-backend**: For loading translations from the backend.
+- **i18next-browser-languagedetector**: For detecting the user's language preference.
+- **react-i18next**: For integrating i18next with React.
+- **npm**: For package management.
+- **@supabase/supabase-js**: For interacting with Supabase services.
+- **@tanstack/react-query**: For data fetching and caching.
+- **@tanstack/react-query-devtools**: For debugging React Query.
+- **date-fns**: For date manipulation.
+- **react-error-boundary**: For handling errors in React components.
+- **react-hook-form**: For managing form state.
+- **react-hot-toast**: For displaying toast notifications.
+- **react-icons**: For using icons in React.
+- **react-router-dom**: For routing in React applications.
+- **recharts**: For creating charts.
+- **styled-components**: For styling React components.
+- **vite**: For building and serving the application.
+- **eslint**: For linting JavaScript code.
+- **prettier**: For code formatting.
+
 ## Installation
 
 1. Clone the repository:
