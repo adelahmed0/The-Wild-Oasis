@@ -1,0 +1,151 @@
+{
+  "changeLangButton": {
+    "english": "English",
+    "arabic": "Arabic"
+  },
+  "sidebar": {
+    "home": "Home",
+    "bookings": "Bookings",
+    "cabins": "Cabins",
+    "users": "Users",
+    "settings": "Settings"
+  },
+  "dashboard": {
+    "dashboardHeading": "Dashboard",
+    "dashboardFilter": {
+      "last7Days": "Last 7 Days",
+      "last30Days": "Last 30 Days",
+      "last90Days": "Last 90 Days"
+    },
+    "bookings": "Bookings",
+    "sales": "Sales",
+    "checkIns": "Check Ins",
+    "occupancyRate": "Occupancy Rate",
+    "todayActivity": "Today",
+    "noActivityToday": "No Activity Today ...",
+    "checkin": "Check In",
+    "checkout": "Check Out",
+    "arriving": "Arriving",
+    "departing": "Departing",
+    "stayDuration": "Stay Duration summary"
+  },
+  "bookings": {
+    "allBookings": "All Bookings",
+    "cabinBooking": "Cabin",
+    "guestBooking": "Guest",
+    "datesBooking": "Dates",
+    "statusBooking": "Status",
+    "amountBooking": "Amount",
+    "all": "All",
+    "checkedIn": "Checked In",
+    "checkedOut": "Checked Out",
+    "unConfirmed": "Unconfirmed",
+    "startDate-desc": "Sort by date (recent first)",
+    "startDate-asc": "Sort by date (earlier first)",
+    "totalPrice-desc": "Sort by amount (high first)",
+    "totalPrice-asc": "Sort by amount (low first)",
+    "seeDetails": "See Details",
+    "checkIn": "Check In",
+    "checkOut": "Check Out",
+    "deleteBooking": "Delete Booking",
+    "booking": "Booking",
+    "nightsInCabin": "Nights in Cabin",
+    "guests": "Guests",
+    "nationalId": "National ID",
+    "breakfastIncluded": "Breakfast Included ?",
+    "yes": "Yes",
+    "no": "No",
+    "totalPrice": "Total Price",
+    "paid": "Paid",
+    "paidAtProperty": "Will Paid at Property",
+    "cabin": "Cabin",
+    "breakfast": "Breakfast",
+    "booked": "Booked"
+  },
+  "cabins": {
+    "allCabins": "All Cabins",
+    "cabin": "Cabin",
+    "capacity": "Capacity",
+    "price": "Price",
+    "discount": "Discount",
+    "deleteCabin": "Delete",
+    "duplicateCabin": "Duplicate",
+    "editCabin": "Edit",
+    "editThisCabin": "Edit This Cabin",
+    "addNewCabin": "Add New Cabin",
+    "showTable": "Show Table",
+    "addCabin": "Add Cabin",
+    "cabinName": "Cabin Name",
+    "cabinCapacity": "Cabin Capacity",
+    "cabinPrice": "Cabin Price",
+    "cabinDiscount": "Cabin Discount",
+    "cabinDescription": "Cabin Description",
+    "cabinPhoto": "Cabin Photo",
+    "reset": "Cancel",
+    "delete": "Delete",
+    "noData": "No data to Show at this time",
+    "all": "All",
+    "noDiscount": "No Discount",
+    "withDiscount": "With Discount",
+    "sortByName_asc": "Sort By Name (A-Z)",
+    "sortByName_desc": "Sort By Name (Z-A)",
+    "sortByPrice_asc": "Sort By Price (Low first)",
+    "sortByPrice_desc": "Sort By Price (High first)",
+    "sortByCapacity_asc": "Sort By Capacity (Low first)",
+    "sortByCapacity_desc": "Sort By Capacity (High first)"
+  },
+  "users": {
+    "usersHeading": "Create a new user",
+    "fullName": "Full Name",
+    "email": "Email Address",
+    "password": "Password (min 8 characters)",
+    "passwordConfirm": "Repeat Password",
+    "reset": "Cancel",
+    "createNewUser": "Create new user",
+    "errors": {
+      "fullName": "Full Name is required",
+      "email": "Email is required",
+      "password": "Password is required",
+      "emailFormat": "Please enter a valid email address",
+      "passwordLength": "Password needs a minimum of 8 characters",
+      "passwordMatch": "Passwords need to match"
+    }
+  },
+  "account": {
+    "accountHeading": "Update your account",
+    "account": "Update user data",
+    "email": "Email Address",
+    "fullName": "Full Name",
+    "avatar": "Avatar Image",
+    "reset": "Cancel",
+    "updateAccount": "Update account",
+    "updatePassword": "Update Password",
+    "newPassword": "New Password (min 8 characters)",
+    "newPasswordConfirm": "Repeat New Password"
+  },
+  "settings": {
+    "updateHotelInfo": "Update Hotel Info",
+    "minimumBookingNights": "Minimum Booking Nights",
+    "maximumBookingNights": "Maximum Booking Nights",
+    "maximumBookingGuests": "Maximum Booking Guests",
+    "breakfastPrice": "Breakfast Price"
+  },
+  "deleteModal": {
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "confirmDelete": "Are you sure you want to delete this item?"
+  },
+  "pagination": {
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "authentication": {
+    "loginTitle": "Log in to your account",
+    "email": "Email Address",
+    "password": "Password",
+    "loginButton": "Login"
+  },
+  "backButton": "Back",
+  "emptyData": "No data to Show at this time"
+}
+

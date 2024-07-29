@@ -1,0 +1,150 @@
+{
+  "changeLangButton": {
+    "english": "الإنجليزية",
+    "arabic": "العربية"
+  },
+  "sidebar": {
+    "home": "الرئيسية",
+    "bookings": "الحجوزات",
+    "cabins": "الكبينات",
+    "users": "المستخدمين",
+    "settings": "الإعدادات"
+  },
+  "dashboard": {
+    "dashboardHeading": "لوحة التحكم",
+    "dashboardFilter": {
+      "last7Days": "آخر 7 أيام",
+      "last30Days": "آخر 30 يوم",
+      "last90Days": "آخر 90 يوم"
+    },
+    "bookings": "الحجوزات",
+    "sales": "المبيعات",
+    "checkIns": "تسجيل الوصول",
+    "occupancyRate": "نسبة الإشغال",
+    "todayActivity": "اليوم",
+    "noActivityToday": "لا يوجد نشاط اليوم ...",
+    "checkin": "تسجيل وصول",
+    "checkout": "تسجيل مغادرة",
+    "arriving": "الوصول",
+    "departing": "المغادرة",
+    "stayDuration": "ملخص مدة الإقامة"
+  },
+  "bookings": {
+    "allBookings": "جميع الحجوزات",
+    "cabinBooking": "كبينة",
+    "guestBooking": "ضيف",
+    "datesBooking": "التواريخ",
+    "statusBooking": "الحالة",
+    "amountBooking": "المبلغ",
+    "all": "الكل",
+    "checkedIn": "تم تسجيل الدخول",
+    "checkedOut": "تم تسجيل المغادرة",
+    "unConfirmed": "غير مؤكد",
+    "startDate-desc": "الترتيب حسب التاريخ (الأحدث أولاً)",
+    "startDate-asc": "الترتيب حسب التاريخ (الأقدم أولاً)",
+    "totalPrice-desc": "الترتيب حسب المبلغ (الأعلى أولاً)",
+    "totalPrice-asc": "الترتيب حسب المبلغ (الأقل أولاً)",
+    "seeDetails": "عرض التفاصيل",
+    "checkIn": "تسجيل الدخول",
+    "checkOut": "تسجيل المغادرة",
+    "deleteBooking": "حذف الحجز",
+    "booking": "الحجز",
+    "nightsInCabin": "الليالي في الكبينة",
+    "guests": "الضيوف",
+    "nationalId": "الهوية الوطنية",
+    "breakfastIncluded": "هل يشمل الإفطار؟",
+    "yes": "نعم",
+    "no": "لا",
+    "totalPrice": "السعر الإجمالي",
+    "paid": "مدفوع",
+    "paidAtProperty": "سيدفع عند الوصول",
+    "cabin": "كبينة",
+    "breakfast": "الإفطار",
+    "booked": "محجوز"
+  },
+  "cabins": {
+    "allCabins": "جميع الكبينات",
+    "cabin": "كبينة",
+    "capacity": "السعة",
+    "price": "السعر",
+    "discount": "الخصم",
+    "deleteCabin": "حذف",
+    "duplicateCabin": "تكرار",
+    "editCabin": "تعديل",
+    "editThisCabin": "تعديل هذه الكبينة",
+    "addNewCabin": "إضافة كبينة جديدة",
+    "showTable": "عرض الجدول",
+    "addCabin": "إضافة كبينة",
+    "cabinName": "اسم الكبينة",
+    "cabinCapacity": "سعة الكبينة",
+    "cabinPrice": "سعر الكبينة",
+    "cabinDiscount": "خصم الكبينة",
+    "cabinDescription": "وصف الكبينة",
+    "cabinPhoto": "صورة الكبينة",
+    "reset": "إلغاء",
+    "delete": "حذف",
+    "noData": "لا توجد بيانات للعرض في هذا الوقت",
+    "all": "الكل",
+    "noDiscount": "بدون خصم",
+    "withDiscount": "مع خصم",
+    "sortByName_asc": "الترتيب حسب الاسم (أ-ي)",
+    "sortByName_desc": "الترتيب حسب الاسم (ي-أ)",
+    "sortByPrice_asc": "الترتيب حسب السعر (الأقل أولاً)",
+    "sortByPrice_desc": "الترتيب حسب السعر (الأعلى أولاً)",
+    "sortByCapacity_asc": "الترتيب حسب السعة (الأقل أولاً)",
+    "sortByCapacity_desc": "الترتيب حسب السعة (الأعلى أولاً)"
+  },
+  "users": {
+    "usersHeading": "إنشاء مستخدم جديد",
+    "fullName": "الاسم الكامل",
+    "email": "عنوان البريد الإلكتروني",
+    "password": "كلمة المرور (بحد أدنى 8 أحرف)",
+    "passwordConfirm": "أعد كلمة المرور",
+    "reset": "إلغاء",
+    "createNewUser": "إنشاء مستخدم جديد",
+    "errors": {
+      "fullName": "الاسم الكامل مطلوب",
+      "email": "البريد الإلكتروني مطلوب",
+      "password": "كلمة المرور مطلوبة",
+      "emailFormat": "يرجى إدخال عنوان بريد إلكتروني صالح",
+      "passwordLength": "كلمة المرور تحتاج إلى 8 أحرف على الأقل",
+      "passwordMatch": "يجب أن تتطابق كلمات المرور"
+    }
+  },
+  "account": {
+    "accountHeading": "تحديث الحساب",
+    "account": "تحديث بيانات المستخدم",
+    "email": "عنوان البريد الإلكتروني",
+    "fullName": "الاسم الكامل",
+    "avatar": "صورة الرمزية",
+    "reset": "إلغاء",
+    "updateAccount": "تحديث الحساب",
+    "updatePassword": "تحديث كلمة المرور",
+    "newPassword": "كلمة مرور جديدة (8 أحرف على الأقل)",
+    "newPasswordConfirm": "تأكيد كلمة المرور الجديدة"
+  },
+  "settings": {
+    "updateHotelInfo": "تحديث معلومات الفندق",
+    "minimumBookingNights": "أدنى عدد ليالي للحجز",
+    "maximumBookingNights": "أقصى عدد ليالي للحجز",
+    "maximumBookingGuests": "أقصى عدد ضيوف للحجز",
+    "breakfastPrice": "سعر الإفطار"
+  },
+  "deleteModal": {
+    "delete": "حذف",
+    "cancel": "إلغاء",
+    "confirmDelete": "هل أنت متأكد أنك تريد حذف هذا العنصر؟"
+  },
+  "pagination": {
+    "previous": "السابق",
+    "next": "التالي"
+  },
+  "authentication": {
+    "loginTitle": "تسجيل الدخول إلى حسابك",
+    "email": "عنوان البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "loginButton": "تسجيل الدخول"
+  },
+  "backButton": "رجوع",
+  "emptyData": "لا توجد بيانات للعرض في هذا الوقت"
+}
