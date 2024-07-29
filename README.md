@@ -68,7 +68,7 @@ features for user authentication, account management, and hotel booking settings
 
 1. **Clone the Repository:**
     - Open your terminal.
-    - Run the following command to clone the repository. Replace `<repository-url>` with your GitHub repository URL.
+    - Run the following command to clone the repository.
       ```bash
       git clone https://github.com/adelahmed0/The-Wild-Oasis
       ```
