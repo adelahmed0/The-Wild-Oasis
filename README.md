@@ -64,10 +64,53 @@ features for user authentication, account management, and hotel booking settings
 - **eslint**: For linting JavaScript code.
 - **prettier**: For code formatting.
 
-## Installation
+## Steps to Install and Run the React Vite Project
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/adelahmed0/The-Wild-Oasis
+1. **Clone the Repository:**
+    - Open your terminal.
+    - Run the following command to clone the repository. Replace `<repository-url>` with your GitHub repository URL.
+      ```bash
+      git clone https://github.com/adelahmed0/The-Wild-Oasis
+      ```
+
+2. **Navigate to the Project Directory:**
+    - Change your directory to the project folder created after cloning.
+      ```bash
+      cd The-Wild-Oasis
+      ```
+
+3. **Install Dependencies:**
+    - Run the following command to install the project dependencies using npm.
+      ```bash
+      npm install
+      ```
+    - Alternatively, you can use yarn:
+      ```bash
+      yarn install
+      ```
+
+4. **Start the Development Server:**
+    - Run the following command to start the Vite development server.
+      ```bash
+      npm run dev
+      ```
+    - Or using yarn:
+      ```bash
+      yarn dev
+      ```
+
+5. **Open the Application in Your Browser:**
+    - Once the development server is running, open your web browser and go to:
+      ```
+      http://localhost:5173
+      ```
+
+   You should see your React application running.
+
+## Additional Commands
+
+- **Build the Project for Production:**
+  ```bash
+  npm run build
 
 
