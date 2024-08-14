@@ -1,36 +1,40 @@
-# The Wild Oasis
+# The Wild Oasis Admin Dashboard
 
 ## Overview
 
-This project is a multilingual web application built using React. It supports English and Arabic languages and includes
-features for user authentication, account management, and hotel booking settings.
+The Wild Oasis is a multilingual web application designed specifically as an admin dashboard. It supports English and
+Arabic languages and includes features for user authentication, account management, hotel booking settings, filtering,
+and pagination.
 
 ## Features
 
 ### Multilingual Support
 
-- **Languages**: English and Arabic
-- **Language Detection**: Automatically detects and sets the language based on user preference stored in local storage
-  or defaults to English.
+- **Languages**: English and Arabic.
+- **Language Detection**: Automatically detects and sets the language based on the user's preference stored in local
+  storage or defaults to English.
 
 ### User Authentication
 
-- **Login**: Users can log in using their email and password.
+- **Login**: Admins can log in using their email and password.
 - **Error Handling**: Provides error messages for invalid email formats, password length, and password mismatch.
 
 ### Account Management
 
-- **Update Account**: Users can update their account information including email, full name, and avatar.
-- **Update Password**: Users can change their password with validation for minimum length and confirmation.
+- **Update Account**: Admins can update their account information, including email, full name, and avatar.
+- **Update Password**: Admins can change their password with validation for minimum length and confirmation.
 
 ### Hotel Booking Settings
 
 - **Update Hotel Information**: Admins can update hotel-related settings such as minimum and maximum booking nights,
   maximum guests, and breakfast price.
 
-### Pagination
+### Filtering and Pagination
 
-- **Navigation**: Users can navigate through paginated data using previous and next buttons.
+- **Filter**: Admins can filter the list of bookings and other data by specific criteria such as date, room type, or
+  guest count.
+- **Pagination**: The application supports pagination to efficiently handle large datasets, allowing admins to navigate
+  through paginated data using previous and next buttons.
 
 ### Data Handling
 
@@ -38,7 +42,12 @@ features for user authentication, account management, and hotel booking settings
 
 ### Modals
 
-- **Delete Confirmation**: Provides a modal to confirm deletion of items.
+- **Delete Confirmation**: Provides a modal to confirm the deletion of items.
+
+### Booking Management
+
+- **Cabin Availability**: Displays available cabins based on the selected start and end dates.
+- **Booking Modification**: Admins can edit or delete bookings, with changes reflecting in real-time.
 
 ## Libraries and Technologies Used
 
@@ -89,7 +98,11 @@ features for user authentication, account management, and hotel booking settings
       yarn install
       ```
 
-4. **Start the Development Server:**
+4. **Set Up Environment Variables:**
+    - Create a `.env` file in the root of the project and configure the necessary environment variables. Refer to
+      the `.env.example` file for the required variables.
+
+5. **Start the Development Server:**
     - Run the following command to start the Vite development server.
       ```bash
       npm run dev
@@ -99,12 +112,11 @@ features for user authentication, account management, and hotel booking settings
       yarn dev
       ```
 
-5. **Open the Application in Your Browser:**
+6. **Open the Application in Your Browser:**
     - Once the development server is running, open your web browser and go to:
       ```
       http://localhost:5173
       ```
-
    You should see your React application running.
 
 ## Additional Commands
@@ -112,5 +124,3 @@ features for user authentication, account management, and hotel booking settings
 - **Build the Project for Production:**
   ```bash
   npm run build
-
-
